@@ -2,7 +2,7 @@ package ru.netology.patient.entity;
 
 import java.util.Objects;
 
-public class BloodPressure {
+public class    BloodPressure {
 
     private int high;
 
